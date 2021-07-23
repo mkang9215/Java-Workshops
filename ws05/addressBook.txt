@@ -1,0 +1,5 @@
+Minjung,Kang,Toronto,ON,M2M2B6
+Alan,Jone,Montreal,QC,HiY3A4
+Mary,Smith,Vancuver,BC,V6R1N8
+Sam,Sharp,Halifax,NS,B3N3H5
+Suzy,Green,Charlottetown,PE,C1A2C6
