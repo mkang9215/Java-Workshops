@@ -13,3 +13,6 @@
 ### Workshop4
 - Hangman
 - FileMatch
+
+### Workshop5
+- AddressBook (JavaFX)
