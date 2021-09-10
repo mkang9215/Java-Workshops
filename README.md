@@ -8,11 +8,19 @@
 - Account
 
 ### Workshop3
-- Employee (PayRollSystem)
+- Employee (PayRoll System)
 
 ### Workshop4
 - Hangman
-- FileMatch
+- File Match
 
 ### Workshop5
-- AddressBook (JavaFX)
+- Address Book (JavaFX)
+
+### Workshop6
+- Baby Names Ranking (JavaFX)
+- Lambda Practice (Array Processor)
+
+### Workshop7
+- Baby Names for both Genders
+- Prime Number
